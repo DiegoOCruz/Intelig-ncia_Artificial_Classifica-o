@@ -1,1 +1,1 @@
-# Intelig-ncia_Artificial_Classifica-o
+# Repositório para envio de TPs
